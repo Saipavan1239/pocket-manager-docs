@@ -23,13 +23,6 @@ This revision is based on the supplied agent context plus the reviewed app code/
 - Kept the deletion page usable as an external account/data-deletion request resource.
 - Avoided asserting an unverified SDP/SSP license; audit the exact shipped dependency versions.
 
-## Before publishing
-
-1. Replace `[YOUR_SUPPORT_EMAIL]` on all pages with your real support address.
-2. Make sure the app has the matching in-app deletion flow if users can create accounts. Google Play requires account-creation apps to provide an in-app account-deletion path as well as an external web resource.
-3. Re-check the Privacy Policy against the exact release build, especially Firebase products, diagnostics/logging, permissions, analytics/ads, and any cloud sync that is enabled at release.
-4. Audit the exact Gradle dependency tree and include all required third-party license notices.
-5. Keep this website repository separate from the private Android source repository.
 
 ## GitHub Pages
 
