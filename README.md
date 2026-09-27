@@ -1,6 +1,6 @@
-# Pocket Manager — Policy Website (v1.0.0)
+# Pawket — Policy Website (v1.0.0)
 
-Static GitHub Pages files for Pocket Manager.
+Static GitHub Pages files for Pawket.
 
 ## Files
 
